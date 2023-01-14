@@ -32,16 +32,17 @@ layout: no-section
 
 - Please try erasing save data for the Demae Channel, and setting it up again! Let us know in #demae-support if you continue to experience issues.
 
-### Will the Demae Channel order real food?
+### Does the Demae Channel order real food?
 
 - Yes! Some current information:
-  - Support has been developed for Domino's in Canada, and Deliveroo in Europe.
+  - Support has been released for Domino's in the United States and Canada.
+  - Support has been developed for Deliveroo in Europe.
   - There are plans to expand more services over to Demae for other countries.
 - If this ever changes throughout development, we will **always** have fake ordering, with restaurants curated from our team!
 
-### When Demae Channel releases, how will I pay for food?
+### How will I pay for food?
 
-- The Demae Channel only supports **pay-on-delivery**, where you will have to pay in either cash or card, to the delivery driver. You cannot input your card details into the Demae Channel or Set Personal Data in any way.
+- The Food Channel only supports **pay-on-delivery**, where you will have to pay in either cash or card, to the delivery driver. You cannot input your card details into the Food Channel or Set Personal Data in any way.
 
 ### Does WiiLink save my address when using Demae Channel?
 
